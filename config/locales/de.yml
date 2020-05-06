@@ -260,9 +260,9 @@ de:
     search:
       start: Beginne die Suche...
   landing:
-    about: "Dieser Server wird mit einer Abwandlung des Frontends %{href} betrieben. Dies ist ein einfacher Frontend für Ihren quelloffenen BigBlueButton Webkonferenzserver. Registrierte Nutzer*innen können ihre eigenen Räume erstellen, um Konferenzen abzuhalten oder Sie können bestehenden Konferenzen über einen praktischen Kurzlink beitreten."
+    about: "Registrierte Nutzer*innen können hier mit diesem Frontend namens %{href} ihre eigenen Räume erstellen, um Konferenzen abzuhalten oder Sie können bestehenden Konferenzen über einen praktischen Kurzlink beitreten."
     welcome: "Willkommen beim Computerwerk-BigBlueButton"
-    registration: "Bitte <a href='https://wiki.computerwerk.org/doku.php?id=hosting:bbb#angebot_fuer_gemeinnuetzige_suedhessische_gruppen_und_hochschulgremien_der_darmstaedter_hochschulen'>Hinweise zur Registrierung</a> beachten! Dieser Server steht nur für gemeinnützige Gruppen im südhessischen Raum zur Verfügung."
+    registration: "Bitte <a href='https://wiki.computerwerk.org/doku.php?id=hosting:bbb#angebot_fuer_gemeinnuetzige_suedhessische_gruppen_und_hochschulgremien_der_darmstaedter_hochschulen'>Hinweise zur Registrierung</a> beachten! Dieser BBB-Server steht nur für gemeinnützige Gruppen im südhessischen Raum zur Verfügung. Mit unserem Projekt <a href='https://www.senfcall.de'>senfcall.de</a> stellen wir allerdings BigBlueButton Instanzen zur freien Verfügung bereit."
     video: Hier ist eine Videoanleitung zur Verwendung von Greenlight
     upgrade: "Zeigen Sie mir, wie ich auf Version 2.0. update!"
     version: "Wir haben eine neue Version von Greenlight veröffentlicht, aber Ihre Datenbank ist damit nicht kompatibel."
