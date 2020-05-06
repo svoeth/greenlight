@@ -230,7 +230,8 @@ en:
     designs: Custom Designs
     authentication: User Authentication
   footer:
-    powered_by: Powered by %{href}.
+    imprint: "<a href='https://www.computerwerk.org/index.php?id=datenschutzerklarung'>Privacy policy</a> - <a href='https://www.computerwerk.org/index.php?id=impressum'>Imprint</a>"
+    powered_by: Powered by <a href='https://www.computerwerk.org'>Computerwerk Darmstadt</a> with <a href='https://bigbluebutton.org'>BigBlueButton</a> and %{href}"
   forgot_password:
     subtitle: Forgot Password
     email: Email
@@ -261,7 +262,8 @@ en:
       start: Start searching...
   landing:
     about: "%{href} is a simple front-end for your BigBlueButton open-source web conferencing server. You can create your own rooms to host sessions, or join others using a short and convenient link."
-    welcome: Welcome to BigBlueButton.
+    registration: "Registration only for local groups. Please mind the <a href='https://wiki.computerwerk.org/doku.php?id=hosting:bbb#angebot_fuer_gemeinnuetzige_suedhessische_gruppen_und_hochschulgremien_der_darmstaedter_hochschulen'>registration instructions!</a>"
+    welcome: Welcome to Computerwerk-BigBlueButton
     video: Watch our tutorial on using Greenlight
     upgrade: Show me how to upgrade to 2.0!
     version: We've released a new version of Greenlight, but your database isn't compatible.
